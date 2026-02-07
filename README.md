@@ -25,10 +25,6 @@ Create an environment and install common notebook dependencies:
    pip install notebook numpy
    ```
 
-Open the notebook:
-
-    ```bash
-    jupyter notebook
-    ```
+Open the notebooks and enjoy!
 
 > Notes: These notebooks were created as part of IE University coursework. My primary work is reflected in the Ghosts notebook.
